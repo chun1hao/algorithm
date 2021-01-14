@@ -61,3 +61,4 @@ for(let i=0;i<n;i++){
 
 [经典排序](https://github.com/chun1hao/MyBlog/tree/master/algorithm)  
 [双指针](https://github.com/chun1hao/algorithm/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
+[查找表](https://github.com/chun1hao/algorithm/labels/%E6%9F%A5%E6%89%BE%E8%A1%A8)
